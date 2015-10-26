@@ -46,4 +46,6 @@ group :development do
 
   # Compiles haml
   gem 'haml'
+
+  gem 'paperclip', '~> 4.3'
 end
